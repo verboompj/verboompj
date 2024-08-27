@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## This repo holds some designs, ideas, and projects both work related as for home use.
+## Sharing some designs, ideas, and projects both work related as for home use.
 
 
 [Networking](https://github.com/verboompj/Networking/blob/master/README.md)
